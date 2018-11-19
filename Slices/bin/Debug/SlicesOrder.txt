@@ -1,0 +1,8 @@
+Order No: 0,Name: Bryce,Surname: Hardie,Phone Number: 0832910087,Cost: R65,Size: Medium,Type: Hawaiian,Cost: R70,Size: Large,Type: Margherita,Amount Of Pizza's: 2
+Order No: 1,Name: Bryce,Surname: Hardie,Phone Number: 0832910087,Cost: R65,Size: Medium,Type: Hawaiian,Cost: R70,Size: Large,Type: Margherita,Amount Of Pizza's: 2
+Order No: 2,Name: Bryce,Surname: Hardie,Phone Number: 0832910087,Cost: R65,Size: Medium,Type: Hawaiian,Cost: R70,Size: Large,Type: Margherita,Amount Of Pizza's: 2
+Order No: 3,Name: Jan,Surname: Loki,Phone Number: 0831198875,Cost: R45,Size: Small,Type: Meat Lovers,Cost: R108,Size: Large,Type: Meat Lovers,Amount Of Pizza's: 2
+Order No: 4,Name: Polt,Surname: Chain,Phone Number: 0765542235,Cost: R93,Size: Large,Type: Hawaiian,93,Cost: R108,Size: Large,Type: Meat Lovers,Amount Of Pizza's: 3
+Order No: 5,Name: Tint,Surname: Loko,Phone Number: 0119223425,Cost: R45,Size: Small,Type: Meat Lovers,Cost: R93,Size: Large,Type: Hawaiian,Cost: R50,Size: Medium,Type: Margherita,Amount Of Pizza's: 3
+Order No: 6,Name: Chuck,Surname: Norris,Phone Number: 0762231234,Cost: R108,Size: Large,Type: Meat Lovers,Cost: R75,Size: Medium,Type: Meat Lovers,Cost: R45,Size: Small,Type: Meat Lovers,Amount Of Pizza's: 3
+Order No: 7,Name: Bruce,Surname: Donger,Phone Number: 0116549852,Cost: R75,Size: Medium,Type: Meat Lovers,Cost: R40,Size: Small,Type: Hawaiian,Cost: R75,Size: Medium,Type: Meat Lovers,Amount Of Pizza's: 3

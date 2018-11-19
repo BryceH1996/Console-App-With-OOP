@@ -1,0 +1,7 @@
+C:\Users\BryceH\source\repos\Slices\Slices\bin\Debug\Slices.exe.config
+C:\Users\BryceH\source\repos\Slices\Slices\bin\Debug\Slices.exe
+C:\Users\BryceH\source\repos\Slices\Slices\bin\Debug\Slices.pdb
+C:\Users\BryceH\source\repos\Slices\Slices\obj\Debug\Slices.csprojAssemblyReference.cache
+C:\Users\BryceH\source\repos\Slices\Slices\obj\Debug\Slices.csproj.CoreCompileInputs.cache
+C:\Users\BryceH\source\repos\Slices\Slices\obj\Debug\Slices.exe
+C:\Users\BryceH\source\repos\Slices\Slices\obj\Debug\Slices.pdb
